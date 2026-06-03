@@ -1,7 +1,12 @@
 # 🚀 User Manager App
 
-Una aplicación web desarrollada en **Next.js (App Router)** para la gestión completa de usuarios con autenticación, persistencia en **MongoDB** y un diseño visual **Neo-Brutalista**.
+Una aplicación web desarrollada en **Next.js (App Router)** para la gestión completa de usuarios con autenticación, persistencia en **MongoDB**.
 
+# Credenciales de prueba
+```bash
+email: admin@example.com
+password: 1234567890
+```
 ## 📌 Características Principales
 
 * **Autenticación de Usuarios:** Login con email y contraseña.
